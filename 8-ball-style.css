@@ -99,10 +99,7 @@ input {
 
 @media only screen and (max-height: 850px) {
     #askQuestion {
-        font-size: 20px;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
+        font-size: 15px;
         z-index: 1;
         margin-top: 375px;
         position: relative;
@@ -112,9 +109,6 @@ input {
 @media only screen and (max-height: 850px) {
     h1 {
         text-align: center;
-        color: bisque;
-        position: relative;
-        font-family: Pacifico;
         z-index: 1;
         position: relative;
     }
